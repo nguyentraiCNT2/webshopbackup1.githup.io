@@ -5,222 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faffbb3f-ccb5-4f31-8587-2d4ccecfa7f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/354079a72b91a4280407c16a36f47d1986fd85a5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/CategoryAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/OUTPUT/CategoryOUTPUT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/repositorty/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/CategoryServiceIMPL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_azure_adal4j_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_azure_azure_core_0_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_azure_azure_keyvault_0_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_6_1_0_jre7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_lang_tag_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_3_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_oauth2_oidc_sdk_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_api_0_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_impl_0_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_jackson_0_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_48.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_43.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_43.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_43.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_43.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_43.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_43.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_51.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_modelmapper_modelmapper_2_4_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_22_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_22_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_22_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_22_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_22_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_22_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_22_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_22_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_22_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_services_1_5_22_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_23_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_23_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_25_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ws_spring_ws_core_2_4_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ws_spring_xml_2_4_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/110971ef5f34d41a0bd5ec01976381396d33db7e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/110971ef5f34d41a0bd5ec01976381396d33db7e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11aae867981976fc67e6192c4f388d6e07f5a780" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11aae867981976fc67e6192c4f388d6e07f5a780" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1becb0b532c12057d36ba53a432a15be457b9cde" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1becb0b532c12057d36ba53a432a15be457b9cde" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/360053387754e9fede0105c17b2626d71239b393" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/360053387754e9fede0105c17b2626d71239b393" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5ccb6dc793ebc56c6c9db5f1479ab7c5418f5343" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5ccb6dc793ebc56c6c9db5f1479ab7c5418f5343" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d57fd99ebe67b1c112efa5d26946158e9e33836" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d57fd99ebe67b1c112efa5d26946158e9e33836" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91948aefff60a73c63418644e90ee1a813be1b44" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91948aefff60a73c63418644e90ee1a813be1b44" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9962fb66604435c68ff29d328bd244426ae42833" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9962fb66604435c68ff29d328bd244426ae42833" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2da8ba770b7a316bd19233e15d27f6fb69ff7da" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2da8ba770b7a316bd19233e15d27f6fb69ff7da" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bae98fa7eeef87fb46863223ac0c139a1716f969" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bae98fa7eeef87fb46863223ac0c139a1716f969" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbaafd342e2cb8b2357710ee9f78efc15cfa9480" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbaafd342e2cb8b2357710ee9f78efc15cfa9480" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbd2ae1c5d3e95c8932d9cb575812dc17baec1d9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbd2ae1c5d3e95c8932d9cb575812dc17baec1d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/CategoryItemAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/OUTPUT/CategoryItemOUTPUT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/repositorty/CategoryItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/CategoryItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/CategoryItemServiceIMPL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/4541919000f10b90f9ef9ae6b60961b14cc7927f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e9544075fb7e0d129ed70798b6860a38c6c770c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e9544075fb7e0d129ed70798b6860a38c6c770c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/5/4541919000f10b90f9ef9ae6b60961b14cc7927f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/UserAccountAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/UserAccountAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/UserAddressAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/UserAddressAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/CtegoryEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/CtegoryEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.laptrinhjavaweb/webmobileshop/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.laptrinhjavaweb/webmobileshop/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/ApplicationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/ApplicationConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/CorsConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/ModelMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/ModelMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/BlackListMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/BlackListMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/CategoryItemMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/CategoryItemMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/CategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/CategoryMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ChatRoomMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ChatRoomMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/CorlorMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/CorlorMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/GuestMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/GuestMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ImagesMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ImagesMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ImportDetailMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ImportDetailMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ImportMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ImportMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/LoveListMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/LoveListMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/MessageMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/MessageMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/OrderDetailMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/OrderDetailMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/OrderMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/OrderMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ProductsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ProductsMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ReviewMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ReviewMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/RoleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/RoleMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ShoppingCartMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ShoppingCartMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/SizeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/SizeMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/UserAccountMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/UserAccountMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/UserAddressMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/UserAddressMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/VideoMaper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/VideoMaper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/CustomValidationException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/CustomValidationException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/MainApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/RandomID.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/RandomID.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/TokenUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/TokenUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/passwordcheckd$CustomValidationException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/passwordcheckd$CustomValidationException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/passwordcheckd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/RanDom/passwordcheckd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/ImagesAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/ImagesAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/QuestAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/QuestAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/RoleAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/RoleAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/UserAccountAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/UserAccountAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/OUTPUT/UserAccountOutPut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/OUTPUT/UserAccountOutPut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/USER/UserAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/USER/UserAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/USER/UserImagesAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/USER/UserImagesAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/USER/UserQuestAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/USER/UserQuestAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/USER/UserRoleAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/USER/UserRoleAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/BlackListDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/BlackListDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/CategoryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/CategoryDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/CategotyItemDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/CategotyItemDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ChatRoomDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ChatRoomDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/CorlorDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/CorlorDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/GuestDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/GuestDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ImagesDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ImagesDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ImportDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ImportDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ImportDetailDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ImportDetailDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/LoveListDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/LoveListDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/MessageDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/MessageDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/OrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/OrderDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/OrderDetailDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/OrderDetailDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ProductDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ProductDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ReviewDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ReviewDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/RoleDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/RoleDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ShoppingCartDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/ShoppingCartDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/SizeDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/SizeDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/UserAccountDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/UserAccountDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/UserAddressDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/UserAddressDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/dto/VideoDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/dto/VideoDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/BlackListEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/BlackListEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/CategoryItemEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/CategoryItemEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ChatRoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ChatRoom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/CorlorEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/CorlorEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/CtegoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/CtegoryEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/GuestEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/GuestEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ImagesEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ImagesEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ImportDetailEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ImportDetailEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ImportEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ImportEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/LoveListEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/LoveListEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/MessageEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/MessageEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/OrderDetailEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/OrderDetailEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/OrderEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/OrderEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ProductsEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ProductsEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ReviewEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ReviewEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/RoleEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/RoleEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ShoppingCartEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ShoppingCartEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/SizeEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/SizeEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/UserAccountEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/UserAccountEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/VideoEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/VideoEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/repositorty/GuestRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/repositorty/GuestRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/repositorty/ImagesRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/repositorty/ImagesRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/repositorty/RoleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/repositorty/RoleRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/repositorty/UserAccountRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/repositorty/UserAccountRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/service/GuestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/service/GuestService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/service/ImagesService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/service/ImagesService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/service/RoleServive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/service/RoleServive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/service/UserAccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/service/UserAccountService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/service/impl/ImagesServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/service/impl/ImagesServiceIMPL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/service/impl/QuestServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/service/impl/QuestServiceIMPL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/service/impl/RoleServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/service/impl/RoleServiceIMPL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmobileshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webmobileshop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/CategoryItemEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/CategoryItemEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/CategoryServiceIMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/CategoryServiceIMPL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -343,6 +140,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/UserAccountServiceIMPL.java" root0="FORCE_HIGHLIGHTING" />
@@ -588,29 +386,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelOrder2": "2",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RequestMappingsPanelWidth2": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "90e5aab56861a259acc5022183e14643",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelOrder2&quot;: &quot;2&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth2&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;90e5aab56861a259acc5022183e14643&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="webmobileshop.jwt" />
@@ -734,7 +532,8 @@
       <workItem from="1703155564076" duration="357000" />
       <workItem from="1703155936675" duration="386000" />
       <workItem from="1703156343028" duration="295000" />
-      <workItem from="1703160337727" duration="2325000" />
+      <workItem from="1703160337727" duration="2592000" />
+      <workItem from="1703164928658" duration="1615000" />
     </task>
     <servers />
   </component>

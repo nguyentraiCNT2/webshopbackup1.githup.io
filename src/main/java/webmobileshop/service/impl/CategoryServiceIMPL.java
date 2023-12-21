@@ -67,7 +67,7 @@ public class CategoryServiceIMPL implements CategoryService {
     public List<CategoryDTO> getByCategoryName(String categoryName) {
         List<CtegoryEntity> ctegoryEntities = categoryRepository.findByCategoryName(categoryName);
         return ctegoryEntities.stream()
-                .map(useraddress -> categoryMapper.toDTO(useraddress))
+                .map(ctegoryEntity -> categoryMapper.toDTO(ctegoryEntity))
                 .collect(Collectors.toList());
     }
 

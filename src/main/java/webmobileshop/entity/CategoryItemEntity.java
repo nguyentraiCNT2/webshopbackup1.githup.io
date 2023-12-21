@@ -13,28 +13,33 @@ public class CategoryItemEntity {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name ="CategoryItemId")
-	private Long CategoryItemId;
+	private Long categoryItemId;
 	@Column(name ="CategoryItemName",columnDefinition = "NVARCHAR(MAX)")
-	private String CategoryItemName;
+	private String categoryItemName;
 	@Column(name ="CategoryItemLogo",columnDefinition = "NVARCHAR(MAX)")
-	private String CategoryItemLogo;
+	private String categoryItemLogo;
+
 	public Long getCategoryItemId() {
-		return CategoryItemId;
+		return categoryItemId;
 	}
+
 	public void setCategoryItemId(Long categoryItemId) {
-		CategoryItemId = categoryItemId;
+		this.categoryItemId = categoryItemId;
 	}
+
 	public String getCategoryItemName() {
-		return CategoryItemName;
+		return categoryItemName;
 	}
+
 	public void setCategoryItemName(String categoryItemName) {
-		CategoryItemName = categoryItemName;
+		this.categoryItemName = categoryItemName;
 	}
+
 	public String getCategoryItemLogo() {
-		return CategoryItemLogo;
+		return categoryItemLogo;
 	}
+
 	public void setCategoryItemLogo(String categoryItemLogo) {
-		CategoryItemLogo = categoryItemLogo;
+		this.categoryItemLogo = categoryItemLogo;
 	}
-	
 }

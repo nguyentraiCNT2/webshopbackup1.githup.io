@@ -19,8 +19,6 @@ h
 8src/main/java/webmobileshop/service/CategoryService.java,b\9\b9876df6af63a27f695edbecec8686fe41f8de1a
 k
 ;src/main/java/webmobileshop/service/UserAddressService.java,d\1\d1e557cbfc8796ac67dec2fded0063c8dfc18a92
-f
-6src/main/java/webmobileshop/service/impl/Category.java,4\5\4541919000f10b90f9ef9ae6b60961b14cc7927f
 q
 Asrc/main/java/webmobileshop/service/impl/CategoryServiceIMPL.java,7\4\747b91e86db8ebae9953ad32137513f00b26593c
 t
@@ -31,3 +29,17 @@ j
 :src/main/java/webmobileshop/api/OUTPUT/CategoryOUTPUT.java,9\7\97b81c024f640d817b87ee214cc3d40f0c71c197
 m
 =src/main/java/webmobileshop/api/OUTPUT/UserAccountOutPut.java,2\b\2bd590a781dcbd361e50aa216a650ee7bd8a6f4a
+\
+,src/main/java/webmobileshop/Application.java,6\9\693c682169a75a380385edfaf9ed536b90d3222e
+j
+:src/main/java/webmobileshop/entity/CategoryItemEntity.java,4\e\4e9544075fb7e0d129ed70798b6860a38c6c770c
+s
+Csrc/main/java/webmobileshop/repositorty/CategoryItemRepository.java,7\7\7719eb45696eff5c0c8bf78443b335ec65f7ff33
+l
+<src/main/java/webmobileshop/service/CategoryItemService.java,5\2\52d986fb0fb0a107fbb6c883b31fa3d0eca72085
+u
+Esrc/main/java/webmobileshop/service/impl/CategoryItemServiceIMPL.java,d\0\d0ff769c6bcefc73342858ccd36603e69cd8bd47
+n
+>src/main/java/webmobileshop/api/OUTPUT/CategoryItemOUTPUT.java,b\1\b1e43582f4db64c7429d6a216421ced39698015e
+j
+:src/main/java/webmobileshop/api/ADMIN/CategoryItemAPI.java,e\7\e7d3857fc932cd74f822fab29064dce4aa044d3f
