@@ -1,0 +1,8 @@
+
+m	java:S116"XRename this field "OrderDetailId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÊÀü
+g	java:S116"RRename this field "OrderId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¹è‘
+j	java:S116%"PRename this field "Price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¿¬ÿÿÿÿÿ
+f	java:S116"QRename this field "UserId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÍ–›
+n	java:S116"TRename this field "ProductId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´š˜˜øÿÿÿÿ
+p	java:S116!"VRename this field "ProductName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ–ì²ûÿÿÿÿ
+h	java:S116#"SRename this field "Quantity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òáŒ

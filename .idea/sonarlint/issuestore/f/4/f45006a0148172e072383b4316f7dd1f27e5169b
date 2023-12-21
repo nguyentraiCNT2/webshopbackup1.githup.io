@@ -1,0 +1,32 @@
+
+b	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(şÏöŞ8Ò‹Ö­Å1
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8¯Æ®…Ç1
+K
+java:S1125U")Remove the literal "false" boolean value.(Ì›’àûÿÿÿÿ8ğä¿‚Ç1
+—
+java:S1130Ë"yRemove the declaration of thrown exception 'webmobileshop.RanDom.CustomValidationException' which is a runtime exception.(¯Åş¾8ÂÒ…Ç1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8¯Æ®…Ç1
+b	java:S112ñ"FDefine and throw a dedicated exception instead of using a generic one.(¤H8ÂÒ…Ç1
+]
+java:S1128	";Remove this unused import 'webmobileshop.RanDom.TokenUtil'.(«˜ ‰úÿÿÿÿ8¯Æ®…Ç1
+U
+java:S1481Î"2Remove this unused "hasDuplicates" local variable.(æÆäîüÿÿÿÿ8ÂÒ…Ç1
+a
+java:S2583Ò"CChange this condition so that it does not always evaluate to "true"(ô·ªç8ÂÒ…Ç1
+X
+java:S1128";Remove this unused import 'webmobileshop.dto.UserTokenDTO'.(Êé×8¯Æ®…Ç1
+d
+java:S1854Î"ARemove this useless assignment to local variable "hasDuplicates".(æÆäîüÿÿÿÿ8ÂÒ…Ç1
+V
+java:S1068*"4Remove this unused "userTokenService" private field.(Á¡Üüÿÿÿÿ8¯Æ®…Ç1
+n	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ğİë8ÂÒ…Ç1
+e
+java:S1128"HRemove this unused import 'java.util.concurrent.atomic.AtomicReference'.(×‡µó8ÿ£¹Æ1
+g	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(°Øúÿÿÿÿ8ÂÒ…Ç1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8¯Æ®…Ç1
+p
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¯Åş¾8ÂÒ…Ç1
+b	java:S112õ"FDefine and throw a dedicated exception instead of using a generic one.(æŒÚ%8ÂÒ…Ç1

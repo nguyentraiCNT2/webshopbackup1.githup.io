@@ -1,0 +1,11 @@
+
+l	java:S116
+"RRename this field "Commune" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾•í´ûÿÿÿÿ
+o	java:S116"ZRename this field "ApartmentNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø£É¤
+g	java:S116"SRename this field "Province" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ç”a
+h	java:S116	"SRename this field "District" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ë›Ô
+j	java:S116"PRename this field "Phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¹È§üÿÿÿÿ
+g	java:S116"RRename this field "Address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ü©
+f	java:S116"RRename this field "Country" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š„’9
+m	java:S116"XRename this field "UserAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö€É„
+k	java:S116"QRename this field "UserId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ºÛÓıÿÿÿÿ

@@ -1,0 +1,16 @@
+
+n	java:S116"TRename this field "ProductId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¡ÿ†ùÿÿÿÿ
+k	java:S116"VRename this field "Productcore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°İ Ë
+p	java:S116"VRename this field "ProductName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ–ì²ûÿÿÿÿ
+h	java:S116"SRename this field "ImagesId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ôÒÑ
+g	java:S116""RRename this field "VideoId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿšä
+s	java:S116%"YRename this field "CategoryItemId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÁÊûÿÿÿÿ
+o	java:S116("URename this field "CategoryId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷õı·øÿÿÿÿ
+m	java:S116+"SRename this field "CorlorId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹Êøÿÿÿÿ
+k	java:S116."QRename this field "SizeId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æĞŒˆıÿÿÿÿ
+q	java:S1160"WRename this field "ProductPrice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï±‰¤ûÿÿÿÿ
+t	java:S1162"ZRename this field "ProductDescribe" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¨üûÿÿÿÿ
+o	java:S1164"ZRename this field "Quantityinstock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øøçß
+h	java:S1166"TRename this field "DateAdded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï£ğs
+p	java:S1168"VRename this field "ProductView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­æ¿ıÿÿÿÿ
+q	java:S116:"WRename this field "ShowOrHidden" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ×áîøÿÿÿÿ

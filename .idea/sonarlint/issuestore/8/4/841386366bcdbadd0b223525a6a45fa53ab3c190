@@ -1,0 +1,9 @@
+
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8õ¼Þ Ç1
+w	java:S116"VRename this field "Expiredtime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‘×Æþÿÿÿÿ8Âº›ßÅ1
+r	java:S116
+"VRename this field "UserTokenId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÔî–8›”›ßÅ1
+k	java:S116"ORename this field "User" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼üøË8Âº›ßÅ1
+p	java:S116"TRename this field "MainToken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú®­ƒ8›”›ßÅ1
+s	java:S116"WRename this field "ReplaceToken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨…¦ú8›”›ßÅ1

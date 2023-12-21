@@ -1,0 +1,8 @@
+
+l	java:S116"RRename this field "OrderId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÁëüÿÿÿÿÿ
+n	java:S116"TRename this field "ProductId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´š˜˜øÿÿÿÿ
+f	java:S116"QRename this field "UserId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÍ–›
+g	java:S116"RRename this field "QuestId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘À£Ÿ
+p	java:S116!"VRename this field "DateBooking" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼×ïÚûÿÿÿÿ
+l	java:S116#"WRename this field "DateDelivery" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÿ±ü
+k	java:S116%"VRename this field "CancelOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”œó½

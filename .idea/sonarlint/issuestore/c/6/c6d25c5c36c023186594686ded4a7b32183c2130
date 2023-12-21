@@ -1,0 +1,18 @@
+
+C
+java:S1452@"&Remove usage of generic wildcard type.(ƒŠÃ®8Õ·âİÅ1
+H
+java:S1452^"&Remove usage of generic wildcard type.(ÛÃ÷¸şÿÿÿÿ8Õ·âİÅ1
+C
+java:S14526"&Remove usage of generic wildcard type.(óî›Ê8Õ·âİÅ1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ŞÙûûÿÿÿÿ
+H
+java:S1452,"&Remove usage of generic wildcard type.(ñŒŸ÷øÿÿÿÿ8Õ·âİÅ1
+C
+java:S1452""&Remove usage of generic wildcard type.(ä’Ş³8Õ·âİÅ1
+H
+java:S1452T"&Remove usage of generic wildcard type.(¼ñ«àùÿÿÿÿ8Õ·âİÅ1
+H
+java:S1452J"&Remove usage of generic wildcard type.(ä÷ş÷úÿÿÿÿ8Õ·âİÅ1
+?
+java:S1116…"Remove this empty statement.(Åñ­õşÿÿÿÿ8Õ·âİÅ1

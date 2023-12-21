@@ -1,0 +1,36 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºé¡‹ÿÿÿÿÿ
+_
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8·İ•âÈ1
+R
+java:S6856…"5Bind path variable "fristName" to a method parameter.(ìä·8»İ•âÈ1
+B
+java:S14524"&Remove usage of generic wildcard type.(şñ8ûßÇ1
+H
+java:S1452_"&Remove usage of generic wildcard type.( ÎÏúÿÿÿÿ8†ÚôÇ1
+H
+java:S1452k"&Remove usage of generic wildcard type.(±ûúéÿÿÿÿÿ8†ÚôÇ1
+H
+java:S1452t"&Remove usage of generic wildcard type.(Ò†Öùÿÿÿÿ8†ÚôÇ1
+C
+java:S1452}"&Remove usage of generic wildcard type.(¸Ïı°8†ÚôÇ1
+I
+java:S1452†"&Remove usage of generic wildcard type.(¬ÏŒéúÿÿÿÿ8†ÚôÇ1
+I
+java:S1452"&Remove usage of generic wildcard type.(é…¦şÿÿÿÿ8†ÚôÇ1
+I
+java:S1452˜"&Remove usage of generic wildcard type.(Ê•‡¡ùÿÿÿÿ8†ÚôÇ1
+D
+java:S1452¢"&Remove usage of generic wildcard type.(¨êÆ©8†ÚôÇ1
+I
+java:S1452¬"&Remove usage of generic wildcard type.(ßëç¯ûÿÿÿÿ8†ÚôÇ1
+I
+java:S1452µ"&Remove usage of generic wildcard type.(–‘úúÿÿÿÿ8†ÚôÇ1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8ÁÅİ Ç1
+Y
+java:S1068&"7Remove this unused "userTokenRepository" private field.(ë‘÷³ÿÿÿÿÿ8ÅşœÇ1
+[
+java:S1068'"9Remove this unused "userAccountRepository" private field.(ú–º†ÿÿÿÿÿ8ÅşœÇ1
+V
+java:S1068("4Remove this unused "userTokenService" private field.(Á¡Üüÿÿÿÿ8ÒèÏ·Ç1

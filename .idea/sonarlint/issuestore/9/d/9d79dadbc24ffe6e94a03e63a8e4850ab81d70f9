@@ -1,0 +1,13 @@
+
+\
+java:S1118	":Add a private constructor to hide the implicit public one.(÷†€èşÿÿÿÿ8ğ€ÏôÄ1
+W
+java:S1874"5Remove this use of "setSigningKey"; it is deprecated.(ªĞµ²øÿÿÿÿ8ğ€ÏôÄ1
+K
+java:S1874".Remove this use of "parser"; it is deprecated.(ÄŞ¼ë8ğ€ÏôÄ1
+R
+java:S1874"5Remove this use of "setSigningKey"; it is deprecated.(ÄŞ¼ë8ğ€ÏôÄ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄĞ“8îéôÄ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å¬‘å
+P
+java:S1874".Remove this use of "parser"; it is deprecated.(ªĞµ²øÿÿÿÿ8ğ€ÏôÄ1

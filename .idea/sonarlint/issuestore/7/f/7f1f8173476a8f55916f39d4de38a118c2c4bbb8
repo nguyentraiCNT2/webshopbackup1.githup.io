@@ -1,0 +1,11 @@
+
+S
+java:S1854("8Remove this useless assignment to local variable "name".(é×Ã‰þÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(˜ÓÝ‚ùÿÿÿÿ
+M	java:S1063"9Replace this use of System.out or System.err by a logger.(£Šå!
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(û»«éÿÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ÿóàèúÿÿÿÿ
+Y
+java:S2583,"CChange this condition so that it does not always evaluate to "true"(ïÅ‰š
+D
+java:S1481(")Remove this unused "name" local variable.(é×Ã‰þÿÿÿÿ
