@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºé¡‹ÿÿÿÿÿ8Æ’–êÈ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8É’–êÈ1
+P
+java:S68563"3Bind path variable "videoId" to a method parameter.(¡ÈÒÁ8Ê’–êÈ1
+C
+java:S1452*"&Remove usage of generic wildcard type.(À›¸õ8Ñ’–êÈ1
+C
+java:S14524"&Remove usage of generic wildcard type.(ïñÏ¾8Ó’–êÈ1

@@ -20,7 +20,7 @@ public class ImagesEntity {
 	@Column(name = "name",columnDefinition = "NVARCHAR(MAX)")
 	private String name;
 	@Column(name = "ShowOrHidden")
-	private boolean ShowOrHidden;
+	private boolean showOrHidden;
 
 	public Long getImagesId() {
 		return imagesId;
@@ -39,10 +39,10 @@ public class ImagesEntity {
 	}
 
 	public boolean isShowOrHidden() {
-		return ShowOrHidden;
+		return showOrHidden;
 	}
 
 	public void setShowOrHidden(boolean showOrHidden) {
-		ShowOrHidden = showOrHidden;
+		this.showOrHidden = showOrHidden;
 	}
 }

@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºé¡‹ÿÿÿÿÿ8ëøÓêÈ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ıøÓêÈ1
+H
+java:S1452*"&Remove usage of generic wildcard type.(«ê¢ùÿÿÿÿ8ƒùÓêÈ1
+H
+java:S14524"&Remove usage of generic wildcard type.(öœ‰ˆüÿÿÿÿ8…ùÓêÈ1
+H
+java:S1452?"&Remove usage of generic wildcard type.(…©¼àøÿÿÿÿ8†ùÓêÈ1
+_
+java:S1128"BRemove this unused import 'webmobileshop.api.OUTPUT.VideosOUTPUT'.(áßèı8‰ùÓêÈ1
+T
+java:S1128"7Remove this unused import 'webmobileshop.dto.VideoDTO'.(ØÜã8‰ùÓêÈ1

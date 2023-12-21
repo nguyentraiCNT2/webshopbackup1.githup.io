@@ -13,33 +13,33 @@ public class CorlorEntity {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "CorlorId")
-	private Long CorlorId;
+	private Long corlorId;
 	@Column(name = "CorlorName",columnDefinition = "NVARCHAR(MAX)")
-	private String CorlorName;
+	private String corlorName;
 	@Column(name = "CorlorCore")
-	private String CorlorCore;
+	private String corlorCore;
 
 	public Long getCorlorId() {
-		return CorlorId;
+		return corlorId;
 	}
 
 	public void setCorlorId(Long corlorId) {
-		CorlorId = corlorId;
+		this.corlorId = corlorId;
 	}
 
 	public String getCorlorName() {
-		return CorlorName;
+		return corlorName;
 	}
 
 	public void setCorlorName(String corlorName) {
-		CorlorName = corlorName;
+		this.corlorName = corlorName;
 	}
 
 	public String getCorlorCore() {
-		return CorlorCore;
+		return corlorCore;
 	}
 
 	public void setCorlorCore(String corlorCore) {
-		CorlorCore = corlorCore;
+		this.corlorCore = corlorCore;
 	}
 }

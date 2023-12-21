@@ -16,27 +16,33 @@ public class VideoEntity {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "VideoId")
-	private Long VideoId;
+	private Long videoId;
 	@Column(name = "VideoName",columnDefinition = "NVARCHAR(MAX)")
-	private String VideoName;
+	private String videoName;
 	@Column(name = "ShowOrHidden")
-	private boolean ShowOrHidden;
+	private boolean showOrHidden;
+
 	public Long getVideoId() {
-		return VideoId;
+		return videoId;
 	}
+
 	public void setVideoId(Long videoId) {
-		VideoId = videoId;
+		this.videoId = videoId;
 	}
+
 	public String getVideoName() {
-		return VideoName;
+		return videoName;
 	}
+
 	public void setVideoName(String videoName) {
-		VideoName = videoName;
+		this.videoName = videoName;
 	}
+
 	public boolean isShowOrHidden() {
-		return ShowOrHidden;
+		return showOrHidden;
 	}
+
 	public void setShowOrHidden(boolean showOrHidden) {
-		ShowOrHidden = showOrHidden;
+		this.showOrHidden = showOrHidden;
 	}
 }
