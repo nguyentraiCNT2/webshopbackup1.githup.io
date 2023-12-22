@@ -1,15 +1,17 @@
 
-Z
-java:S1128	"=Remove this unused import 'webmobileshop.dto.UserAccountDTO'.(Ì»ï…8ÒÅÍÇ1
 b	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(şÏöŞ8É»±²Æ1
-W
-java:S1068"5Remove this unused "userAccountMapper" private field.(È¶Şûÿÿÿÿ8«ÃÏÁÈ1
-v
-java:S1192-"YDefine a constant instead of duplicating this literal "Data not found with ID: " 3 times.(Æ¢‘è8ÙœÑ²Æ1
+b	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(şÏöŞ8ĞáĞ²Æ1
+b	java:S112d"FDefine and throw a dedicated exception instead of using a generic one.(şÏöŞ8ÙœÑ²Æ1
+a	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(¤H8ãùÕ²Æ1
 ‰
 java:S11922"lDefine a constant instead of duplicating this literal "An error occurred while fetching data by ID" 3 times.(şÏöŞ8ÙœÑ²Æ1
-b	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(şÏöŞ8ĞáĞ²Æ1
-a	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(¤H8ãùÕ²Æ1
-b	java:S112d"FDefine and throw a dedicated exception instead of using a generic one.(şÏöŞ8ÙœÑ²Æ1
+v
+java:S1192-"YDefine a constant instead of duplicating this literal "Data not found with ID: " 3 times.(Æ¢‘è8ÙœÑ²Æ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÇêƒÉ1
+Z
+java:S1128	"=Remove this unused import 'webmobileshop.dto.UserAccountDTO'.(Ì»ï…8ÒÅÍÇ1
+W
+java:S1068"5Remove this unused "userAccountMapper" private field.(È¶Şûÿÿÿÿ8«ÃÏÁÈ1
 S
 java:S1068"6Remove this unused "userAccountService" private field.(ÊøŞõ8ÒÅÍÇ1

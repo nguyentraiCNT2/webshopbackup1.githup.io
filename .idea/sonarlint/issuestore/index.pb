@@ -194,3 +194,13 @@ b
 2src/main/java/webmobileshop/api/ADMIN/SizeAPI.java,2\a\2aad57b7c56534f9bdabb149989c03ce1f95d485
 f
 6src/main/java/webmobileshop/api/OUTPUT/SizeOUTPUT.java,3\b\3bb7be5d7cde0eebfdc4f808c3cd3860fddbca56
+o
+?src/main/java/webmobileshop/repositorty/ProductsRepository.java,d\4\d4bdaa3d4b0c588329c5e1e8b0dd9dee4352ce08
+h
+8src/main/java/webmobileshop/service/ProductsService.java,d\a\da7e81631f77caa7c16466545a90be945887abbd
+q
+Asrc/main/java/webmobileshop/service/impl/ProductsServiceIMPL.java,2\d\2d7195064605b50e81763fb3cb4c8b571bc69517
+j
+:src/main/java/webmobileshop/api/OUTPUT/ProductsOUTPUT.java,9\3\93f4f43a99c468fb3e86f48b7df3ed5d40f8712f
+f
+6src/main/java/webmobileshop/api/ADMIN/ProductsAPI.java,e\2\e2142d539620c326b4d408f6cb4f2f411de24c1e

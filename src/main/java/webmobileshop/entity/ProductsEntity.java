@@ -21,132 +21,159 @@ public class ProductsEntity {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "ProductId")
-	private Long ProductId;
+	private Long productId;
 	@Column(name = "Productcore")
-	private String Productcore;
+	private String productcore;
 	@Column(name = "ProductName",columnDefinition = "NVARCHAR(MAX)")
-	private String ProductName;
+	private String productName;
 	@ManyToOne
 	@JoinColumn(name = "ImagesId")
-	private ImagesEntity ImagesId;
+	private ImagesEntity imagesId;
 	@ManyToOne
 	@JoinColumn(name = "VideoId")
-	private VideoEntity VideoId;
+	private VideoEntity videoId;
 	@ManyToOne
 	@JoinColumn(name = "CategoryItemId")
-	private CategoryItemEntity CategoryItemId;
+	private CategoryItemEntity categoryItemId;
 	@ManyToOne
 	@JoinColumn(name = "CategoryId")
-	private CtegoryEntity CategoryId;
+	private CtegoryEntity categoryId;
 	@ManyToOne
 	@JoinColumn(name = "CorlorId")
-	private CorlorEntity CorlorId;
+	private CorlorEntity corlorId;
 	@ManyToOne
 	@JoinColumn(name = "SizeId")
-	private SizeEntity SizeId;
+	private SizeEntity sizeId;
 	@Column(name = "ProductPrice")
-	private BigDecimal ProductPrice;
+	private BigDecimal productPrice;
 	@Column(name = "ProductDescribe",columnDefinition = "NVARCHAR(MAX)")
-	private String ProductDescribe;
+	private String productDescribe;
 	@Column(name = "Quantityinstock")
-	private int Quantityinstock;
+	private int quantityinstock;
 	@Column(name = "DateAdded")
-	private Date DateAdded;
+	private Date dateAdded;
 	@Column(name = "ProductView")
-	private int ProductView;
+	private int productView;
 	@Column(name = "ShowOrHidden")
-	private boolean ShowOrHidden;
+	private boolean showOrHidden;
+
 	public Long getProductId() {
-		return ProductId;
+		return productId;
 	}
+
 	public void setProductId(Long productId) {
-		ProductId = productId;
+		this.productId = productId;
 	}
+
 	public String getProductcore() {
-		return Productcore;
+		return productcore;
 	}
+
 	public void setProductcore(String productcore) {
-		Productcore = productcore;
+		this.productcore = productcore;
 	}
+
 	public String getProductName() {
-		return ProductName;
+		return productName;
 	}
+
 	public void setProductName(String productName) {
-		ProductName = productName;
+		this.productName = productName;
 	}
+
 	public ImagesEntity getImagesId() {
-		return ImagesId;
+		return imagesId;
 	}
+
 	public void setImagesId(ImagesEntity imagesId) {
-		ImagesId = imagesId;
+		this.imagesId = imagesId;
 	}
+
 	public VideoEntity getVideoId() {
-		return VideoId;
+		return videoId;
 	}
+
 	public void setVideoId(VideoEntity videoId) {
-		VideoId = videoId;
+		this.videoId = videoId;
 	}
+
 	public CategoryItemEntity getCategoryItemId() {
-		return CategoryItemId;
+		return categoryItemId;
 	}
+
 	public void setCategoryItemId(CategoryItemEntity categoryItemId) {
-		CategoryItemId = categoryItemId;
+		this.categoryItemId = categoryItemId;
 	}
+
 	public CtegoryEntity getCategoryId() {
-		return CategoryId;
+		return categoryId;
 	}
+
 	public void setCategoryId(CtegoryEntity categoryId) {
-		CategoryId = categoryId;
+		this.categoryId = categoryId;
 	}
+
 	public CorlorEntity getCorlorId() {
-		return CorlorId;
+		return corlorId;
 	}
+
 	public void setCorlorId(CorlorEntity corlorId) {
-		CorlorId = corlorId;
+		this.corlorId = corlorId;
 	}
+
 	public SizeEntity getSizeId() {
-		return SizeId;
+		return sizeId;
 	}
+
 	public void setSizeId(SizeEntity sizeId) {
-		SizeId = sizeId;
+		this.sizeId = sizeId;
 	}
+
 	public BigDecimal getProductPrice() {
-		return ProductPrice;
+		return productPrice;
 	}
+
 	public void setProductPrice(BigDecimal productPrice) {
-		ProductPrice = productPrice;
+		this.productPrice = productPrice;
 	}
+
 	public String getProductDescribe() {
-		return ProductDescribe;
+		return productDescribe;
 	}
+
 	public void setProductDescribe(String productDescribe) {
-		ProductDescribe = productDescribe;
+		this.productDescribe = productDescribe;
 	}
+
 	public int getQuantityinstock() {
-		return Quantityinstock;
+		return quantityinstock;
 	}
+
 	public void setQuantityinstock(int quantityinstock) {
-		Quantityinstock = quantityinstock;
+		this.quantityinstock = quantityinstock;
 	}
+
 	public Date getDateAdded() {
-		return DateAdded;
+		return dateAdded;
 	}
+
 	public void setDateAdded(Date dateAdded) {
-		DateAdded = dateAdded;
+		this.dateAdded = dateAdded;
 	}
 
 	public int getProductView() {
-		return ProductView;
+		return productView;
 	}
+
 	public void setProductView(int productView) {
-		ProductView = productView;
+		this.productView = productView;
 	}
+
 	public boolean isShowOrHidden() {
-		return ShowOrHidden;
+		return showOrHidden;
 	}
+
 	public void setShowOrHidden(boolean showOrHidden) {
-		ShowOrHidden = showOrHidden;
+		this.showOrHidden = showOrHidden;
 	}
-	
-	
 }
