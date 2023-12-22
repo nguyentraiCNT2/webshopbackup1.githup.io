@@ -8,3 +8,8 @@ C
 java:S1452*"&Remove usage of generic wildcard type.(À›¸õ8Ñ’–êÈ1
 C
 java:S14524"&Remove usage of generic wildcard type.(ïñÏ¾8Ó’–êÈ1
+f
+java:S1128
+"DRemove this unused import 'webmobileshop.api.OUTPUT.CategoryOUTPUT'.(Øàâ›üÿÿÿÿ8·ÒøıÈ1
+\
+java:S1128":Remove this unused import 'webmobileshop.dto.CategoryDTO'.(‚èÆ‰ıÿÿÿÿ8¸ÒøıÈ1

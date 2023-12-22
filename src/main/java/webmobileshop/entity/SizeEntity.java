@@ -16,19 +16,23 @@ public class SizeEntity {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "SizeId")
-	private Long SizeId;
+	private Long sizeId;
 	@Column(name = "SizeName",columnDefinition = "NVARCHAR(MAX)")
-	private String SizeName;
+	private String sizeName;
+
 	public Long getSizeId() {
-		return SizeId;
+		return sizeId;
 	}
+
 	public void setSizeId(Long sizeId) {
-		SizeId = sizeId;
+		this.sizeId = sizeId;
 	}
+
 	public String getSizeName() {
-		return SizeName;
+		return sizeName;
 	}
+
 	public void setSizeName(String sizeName) {
-		SizeName = sizeName;
+		this.sizeName = sizeName;
 	}
 }

@@ -79,3 +79,15 @@ h
 8src/main/java/webmobileshop/api/OUTPUT/CorlorOUTPUT.java,4\7\47cd01366193991cfbe1169a4dd42354f9db3bc4
 g
 7src/main/java/webmobileshop/api/ADMIN/UserTokenAPI.java,b\b\bbaafd342e2cb8b2357710ee9f78efc15cfa9480
+b
+2src/main/java/webmobileshop/entity/SizeEntity.java,7\0\70f1729cce30285ca3ad64a5a0ea6f31587e8c46
+k
+;src/main/java/webmobileshop/repositorty/SizeRepository.java,b\2\b25259780b0a7b6f63f0caa6e8707967b9345809
+d
+4src/main/java/webmobileshop/service/SizeService.java,f\c\fc3aaec4c8e7b48291634d6c414f458f72ee1951
+m
+=src/main/java/webmobileshop/service/impl/SizeServiceIMPL.java,0\3\038bdfc42e1d00e69a7f682d5a19c2420275dbd8
+b
+2src/main/java/webmobileshop/api/ADMIN/SizeAPI.java,2\a\2aad57b7c56534f9bdabb149989c03ce1f95d485
+f
+6src/main/java/webmobileshop/api/OUTPUT/SizeOUTPUT.java,3\b\3bb7be5d7cde0eebfdc4f808c3cd3860fddbca56

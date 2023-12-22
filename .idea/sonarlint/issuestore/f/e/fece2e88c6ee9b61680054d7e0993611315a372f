@@ -3,3 +3,7 @@ b	java:S112*"FDefine and throw a dedicated exception instead of using a generi
 a	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(¤H8ÜÖìéÈ1
 _
 java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8áÖìéÈ1
+T
+java:S1128	"7Remove this unused import 'webmobileshop.dto.VideoDTO'.(ØÜã8ŞËøıÈ1
+Z
+java:S1128"=Remove this unused import 'webmobileshop.entity.VideoEntity'.(Ï¹Ë€8ßËøıÈ1
