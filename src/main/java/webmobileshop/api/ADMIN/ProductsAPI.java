@@ -185,7 +185,7 @@ public class ProductsAPI {
     @DeleteMapping("/product/delete-product-by-productid/{productId}")
     public ResponseEntity<String> deleteUserToken(@PathVariable Long productId) {
         try {
-            productsService.deleteProduct(productId);
+            productsService.deleteByProductId(productId);
             return new ResponseEntity<>("delete successfully", HttpStatus.OK);
         } catch (RuntimeException e) {
             return new ResponseEntity<>(e.getMessage(), HttpStatus.NOT_FOUND);

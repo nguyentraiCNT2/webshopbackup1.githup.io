@@ -24,5 +24,5 @@ public interface ProductsService {
     List<ProductDTO>  getBySizeId(Long sizeId);
     void createProduct(ProductDTO productDTO);
     void updateProduct( ProductDTO productDTO);
-    void deleteProduct(Long productId);
+    void deleteByProductId(Long productId);
 }

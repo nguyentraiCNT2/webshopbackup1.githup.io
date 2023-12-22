@@ -177,7 +177,7 @@ public class ProductsServiceIMPL implements ProductsService {
     }
 
     @Override
-    public void deleteProduct(Long productId) {
-        productsRepository.deleteByProductid(productId);
+    public void deleteByProductId(Long productId) {
+        productsRepository.deleteByProductId(productId);
     }
 }

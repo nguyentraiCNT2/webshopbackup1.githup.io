@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faffbb3f-ccb5-4f31-8587-2d4ccecfa7f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/ProductsAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/OUTPUT/ProductsOUTPUT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/repositorty/ProductsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/ProductsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/ProductsServiceIMPL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11aae867981976fc67e6192c4f388d6e07f5a780" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11aae867981976fc67e6192c4f388d6e07f5a780" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2aad57b7c56534f9bdabb149989c03ce1f95d485" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2aad57b7c56534f9bdabb149989c03ce1f95d485" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64d3906b82ef39073959a54e6b146f70c2f1b3bb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64d3906b82ef39073959a54e6b146f70c2f1b3bb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bae98fa7eeef87fb46863223ac0c139a1716f969" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bae98fa7eeef87fb46863223ac0c139a1716f969" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f45006a0148172e072383b4316f7dd1f27e5169b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f45006a0148172e072383b4316f7dd1f27e5169b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/SizeAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/SizeAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/ProductsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/ProductsAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/ProductsEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/ProductsEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/repositorty/ProductsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/repositorty/ProductsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/service/ProductsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/ProductsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/ProductsServiceIMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/ProductsServiceIMPL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ProductsEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ProductsEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/SizeEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/SizeEntity.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -537,7 +530,8 @@
       <workItem from="1703164928658" duration="2977000" />
       <workItem from="1703172833764" duration="6245000" />
       <workItem from="1703218610805" duration="2425000" />
-      <workItem from="1703228532570" duration="5067000" />
+      <workItem from="1703228532570" duration="5143000" />
+      <workItem from="1703242824804" duration="1465000" />
     </task>
     <servers />
   </component>

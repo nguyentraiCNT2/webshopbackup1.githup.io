@@ -55,7 +55,7 @@ public class ProductsEntity {
 	@Column(name = "ProductView")
 	private int productView;
 	@Column(name = "ShowOrHidden")
-	private boolean showOrHidden;
+		private boolean showOrHidden;
 
 	public Long getProductId() {
 		return productId;

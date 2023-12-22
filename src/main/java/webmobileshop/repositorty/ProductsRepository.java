@@ -19,6 +19,6 @@ public interface ProductsRepository  extends JpaRepository<ProductsEntity, Long>
     List<ProductsEntity>  findByCategoryId(Long categoryId);
     List<ProductsEntity>  findByCorlorId(Long corlorId);
     List<ProductsEntity>  findBySizeId(Long sizeId);
-    void deleteByProductid(Long  productId);
+    void deleteByProductId(Long  productId);
     ProductsEntity saveAndFlush(ProductsEntity productsEntity);
 }
