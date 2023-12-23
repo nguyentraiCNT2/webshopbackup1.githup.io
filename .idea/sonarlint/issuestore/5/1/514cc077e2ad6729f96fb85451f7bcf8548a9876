@@ -1,0 +1,13 @@
+
+b	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(şÏöŞ8ÌÀÆÁÉ1
+b	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(şÏöŞ8ÍÀÆÁÉ1
+b	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(şÏöŞ8×½ÈÁÉ1
+a	java:S112i"FDefine and throw a dedicated exception instead of using a generic one.(¤H8™’êÁÉ1
+‰
+java:S1192/"lDefine a constant instead of duplicating this literal "An error occurred while fetching data by ID" 3 times.(şÏöŞ8Ù½ÈÁÉ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8×ÀÆÁÉ1
+X
+java:S1128	";Remove this unused import 'webmobileshop.dto.UserTokenDTO'.(Êé×8µåŞÂÉ1
+c
+java:S1128"ARemove this unused import 'webmobileshop.entity.UserTokenEntity'.(ƒ“Àøÿÿÿÿ8·åŞÂÉ1

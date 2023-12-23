@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñØúÚ
+F
+java:S1068"0Remove this unused "imagesMapper" private field.(®ÜÃÜ
+E
+java:S1068"/Remove this unused "videoMapper" private field.(‡×ñ´
+Q
+java:S1068"6Remove this unused "categoryItemMapper" private field.(¬É±¾øÿÿÿÿ
+H
+java:S1068"2Remove this unused "categoryMapper" private field.(¤ÛÌÑ
+D
+java:S1068"/Remove this unused "colorMapper" private field.(¨£ì
+I
+java:S1068".Remove this unused "sizeMapper" private field.(§Êüéüÿÿÿÿ
+J
+java:S1068"/Remove this unused "modelMapper" private field.(«ŞËãşÿÿÿÿ

@@ -204,3 +204,17 @@ j
 :src/main/java/webmobileshop/api/OUTPUT/ProductsOUTPUT.java,9\3\93f4f43a99c468fb3e86f48b7df3ed5d40f8712f
 f
 6src/main/java/webmobileshop/api/ADMIN/ProductsAPI.java,e\2\e2142d539620c326b4d408f6cb4f2f411de24c1e
+z
+Jsrc/main/java/webmobileshop/Configproject/OpjectMapper/ProductsMapper.java,8\9\89c47e21590ca2a6f2ae1a1cf9832691c8d59b9f
+_
+/src/main/java/webmobileshop/dto/ProductDTO.java,0\9\097c815e51891f02b7abe6c74cc063b82592c12b
+p
+@src/main/java/webmobileshop/repositorty/BlackListRepository.java,d\f\dfd338a4df63e62be45e861800eb9c9868d73151
+i
+9src/main/java/webmobileshop/service/BlackListService.java,d\8\d88cb9abf2822c38e1b5be0bc454392a5f0f9bee
+r
+Bsrc/main/java/webmobileshop/service/impl/BlackListServiceIMPL.java,5\1\514cc077e2ad6729f96fb85451f7bcf8548a9876
+k
+;src/main/java/webmobileshop/api/OUTPUT/BlacklistOUTPUT.java,2\6\2641288bee9e56852cc16a0431e1deb747522249
+h
+8src/main/java/webmobileshop/api/ADMIN/BlackListAPIU.java,6\f\6f976ec30d06d5ecf401145fe4d80c1f6aac5fff

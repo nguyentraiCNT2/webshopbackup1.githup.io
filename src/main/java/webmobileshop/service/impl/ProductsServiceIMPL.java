@@ -20,14 +20,14 @@ import java.util.stream.Collectors;
 public class ProductsServiceIMPL implements ProductsService {
     @Autowired
     private final ProductsRepository productsRepository;
-    private ProductsMapper productsMapper;
-    private ModelMapper modelMapper;
-    private ImagesRepository imagesRepository;
-    private VideosRepository videosRepository;
-    private CategoryItemRepository categoryItemRepository;
-    private CategoryRepository categoryRepository;
-    private SizeRepository sizeRepository;
-    private CorlorRepository corlorRepository;
+    private final ProductsMapper productsMapper;
+    private final ModelMapper modelMapper;
+    private final ImagesRepository imagesRepository;
+    private final VideosRepository videosRepository;
+    private final CategoryItemRepository categoryItemRepository;
+    private final CategoryRepository categoryRepository;
+    private final SizeRepository sizeRepository;
+    private final CorlorRepository corlorRepository;
 
     public ProductsServiceIMPL(ProductsRepository productsRepository, ProductsMapper productsMapper, ModelMapper modelMapper, ImagesRepository imagesRepository, VideosRepository videosRepository, CategoryItemRepository categoryItemRepository, CategoryRepository categoryRepository, SizeRepository sizeRepository, CorlorRepository corlorRepository) {
         this.productsRepository = productsRepository;
@@ -48,8 +48,8 @@ public class ProductsServiceIMPL implements ProductsService {
         List<ProductsEntity> productsEntityList = productsRepository.findAll(pageable).getContent();
         for (ProductsEntity item: productsEntityList
         ) {
-            ProductDTO productDTO = productsMapper.toDTO(item);
-            results.add(productDTO);
+                ProductDTO productDTO  = productsMapper.toDTO(item);
+                results.add( productDTO );
         }
         return results;
     }
@@ -76,7 +76,7 @@ public class ProductsServiceIMPL implements ProductsService {
     public List<ProductDTO> getByProductcore(String productcore) {
         List<ProductsEntity> productsEntityList = productsRepository.findByProductcore(productcore);
         return productsEntityList.stream()
-                .map(productsEntity -> productsMapper.toDTO(productsEntity))
+                .map(productsMapper::toDTO)
                 .collect(Collectors.toList());
     }
 
@@ -84,7 +84,7 @@ public class ProductsServiceIMPL implements ProductsService {
     public List<ProductDTO> getByProductName(String productName) {
         List<ProductsEntity> productsEntityList = productsRepository.findByProductName(productName);
         return productsEntityList.stream()
-                .map(productsEntity -> productsMapper.toDTO(productsEntity))
+                .map(productsMapper::toDTO)
                 .collect(Collectors.toList());
     }
 
@@ -92,7 +92,7 @@ public class ProductsServiceIMPL implements ProductsService {
     public List<ProductDTO> getByProductPrice(BigDecimal productPrice) {
         List<ProductsEntity> productsEntityList = productsRepository.findByProductPrice(productPrice);
         return productsEntityList.stream()
-                .map(productsEntity -> productsMapper.toDTO(productsEntity))
+                .map(productsMapper::toDTO)
                 .collect(Collectors.toList());
     }
 
@@ -100,7 +100,7 @@ public class ProductsServiceIMPL implements ProductsService {
     public List<ProductDTO> getByProductView(int productView) {
         List<ProductsEntity> productsEntityList = productsRepository.findByProductView(productView);
         return productsEntityList.stream()
-                .map(productsEntity -> productsMapper.toDTO(productsEntity))
+                .map(productsMapper::toDTO)
                 .collect(Collectors.toList());
     }
 
@@ -108,7 +108,7 @@ public class ProductsServiceIMPL implements ProductsService {
     public List<ProductDTO> getByQuantityinstock(int quantityinstock) {
         List<ProductsEntity> productsEntityList = productsRepository.findByQuantityinstock(quantityinstock);
         return productsEntityList.stream()
-                .map(productsEntity -> productsMapper.toDTO(productsEntity))
+                .map(productsMapper::toDTO)
                 .collect(Collectors.toList());
     }
 
@@ -116,7 +116,7 @@ public class ProductsServiceIMPL implements ProductsService {
     public List<ProductDTO> getByCategoryItemId(Long categoryItemId) {
         List<ProductsEntity> productsEntityList = productsRepository.findByCategoryItemId(categoryItemId);
         return productsEntityList.stream()
-                .map(productsEntity -> productsMapper.toDTO(productsEntity))
+                .map(productsMapper::toDTO)
                 .collect(Collectors.toList());
     }
 
@@ -124,7 +124,7 @@ public class ProductsServiceIMPL implements ProductsService {
     public List<ProductDTO> getByCategoryId(Long categoryId) {
         List<ProductsEntity> productsEntityList = productsRepository.findByCategoryId(categoryId);
         return productsEntityList.stream()
-                .map(productsEntity -> productsMapper.toDTO(productsEntity))
+                .map(productsMapper::toDTO)
                 .collect(Collectors.toList());
     }
 
@@ -132,7 +132,7 @@ public class ProductsServiceIMPL implements ProductsService {
     public List<ProductDTO> getByCorlorId(Long corlorId) {
         List<ProductsEntity> productsEntityList = productsRepository.findByCorlorId(corlorId);
         return productsEntityList.stream()
-                .map(productsEntity -> productsMapper.toDTO(productsEntity))
+                .map(productsMapper::toDTO)
                 .collect(Collectors.toList());
     }
 
@@ -140,7 +140,7 @@ public class ProductsServiceIMPL implements ProductsService {
     public List<ProductDTO> getBySizeId(Long sizeId) {
         List<ProductsEntity> productsEntityList = productsRepository.findBySizeId(sizeId);
         return productsEntityList.stream()
-                .map(productsEntity -> productsMapper.toDTO(productsEntity))
+                .map(productsMapper::toDTO)
                 .collect(Collectors.toList());
     }
 

@@ -15,35 +15,34 @@ public class BlackListEntity {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "BlackListId")
-	private Long BlackListId;
+	private Long blackListId;
 	@ManyToOne
 	@JoinColumn(name = "Userid")
-	private UserAccountEntity Userid;
+	private UserAccountEntity userid;
 	@Column(name = "UserErorr",columnDefinition = "NVARCHAR(MAX)")
-	private String UserErorr;
+	private String userErorr;
 
 	public Long getBlackListId() {
-		return BlackListId;
+		return blackListId;
 	}
 
 	public void setBlackListId(Long blackListId) {
-		BlackListId = blackListId;
+		this.blackListId = blackListId;
 	}
 
 	public UserAccountEntity getUserid() {
-		return Userid;
+		return userid;
 	}
 
 	public void setUserid(UserAccountEntity userid) {
-		Userid = userid;
+		this.userid = userid;
 	}
 
 	public String getUserErorr() {
-		return UserErorr;
+		return userErorr;
 	}
 
 	public void setUserErorr(String userErorr) {
-		UserErorr = userErorr;
+		this.userErorr = userErorr;
 	}
-
 }

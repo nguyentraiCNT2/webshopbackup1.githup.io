@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºé¡‹ÿÿÿÿÿ8’¢ ÂÉ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜¢ ÂÉ1
+H
+java:S14528"&Remove usage of generic wildcard type.(‰’ÊÒùÿÿÿÿ8­¢ ÂÉ1
+C
+java:S1452C"&Remove usage of generic wildcard type.(Îÿ¨ª8°¢ ÂÉ1
+g
+java:S1128"ERemove this unused import 'webmobileshop.api.OUTPUT.UserTokenOUTPUT'.(èÓÆıÿÿÿÿ8ÑèŞÂÉ1
+V
+java:S1128"9Remove this unused import 'webmobileshop.dto.ProductDTO'.(ËĞÈö8ÒèŞÂÉ1
+X
+java:S1128";Remove this unused import 'webmobileshop.dto.UserTokenDTO'.(Êé×8ÒèŞÂÉ1

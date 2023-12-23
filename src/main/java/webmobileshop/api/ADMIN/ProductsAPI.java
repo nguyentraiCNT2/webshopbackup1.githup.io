@@ -35,10 +35,12 @@ public class ProductsAPI {
         ProductsOUTPUT result = new ProductsOUTPUT();
         result.setPage(page);
         Pageable pageable = new PageRequest(page - 1, limit);
+        System.out.println("productsService: " + productsService);
+        System.out.println("pageable: " + pageable);
         result.setListResult(productsService.getAllProduct(pageable));
         result.setTotalPage((int) Math.ceil((double) (productsService.totalItem()) / limit));
-        model.addAttribute("userTokenOUTPUT", result);
 
+        model.addAttribute("userTokenOUTPUT", result);
         return result;
     }
 

@@ -32,12 +32,12 @@ public class ProductsMapper {
         dto.setProductId(entity.getProductId());
         dto.setProductcore(entity.getProductcore());
         dto.setProductName(entity.getProductName());
-        dto.setImagesId(entity.getImagesId().getImagesId()); // Assuming getImagesId() returns ImagesEntity
-        dto.setVideoId(entity.getVideoId().getVideoId()); // Assuming getVideoId() returns VideoEntity
-        dto.setCategoryItemId(entity.getCategoryItemId().getCategoryItemId()); // Assuming getCategoryItemId() returns CategoryItemEntity
-        dto.setCategoryId(entity.getCategoryId().getCategoryId()); // Assuming getCategoryId() returns CategoryEntity
-        dto.setCorlorId(entity.getCorlorId().getCorlorId()); // Assuming getCorlorId() returns ColorEntity
-        dto.setSizeId(entity.getSizeId().getSizeId()); // Assuming getSizeId() returns SizeEntity
+        dto.setImagesId(entity.getImagesId() != null ? entity.getImagesId().getImagesId() : null);
+        dto.setVideoId(entity.getVideoId() != null ? entity.getVideoId().getVideoId() : null);
+        dto.setCategoryItemId(entity.getCategoryItemId() != null ? entity.getCategoryItemId().getCategoryItemId() : null);
+        dto.setCategoryId(entity.getCategoryId() != null ? entity.getCategoryId().getCategoryId() : null);
+        dto.setCorlorId(entity.getCorlorId() != null ? entity.getCorlorId().getCorlorId() : null);
+        dto.setSizeId(entity.getSizeId() != null ? entity.getSizeId().getSizeId() : null);
         dto.setProductPrice(entity.getProductPrice());
         dto.setProductDescribe(entity.getProductDescribe());
         dto.setQuantityinstock(entity.getQuantityinstock());
@@ -52,24 +52,6 @@ public class ProductsMapper {
         entity.setProductId(dto.getProductId());
         entity.setProductcore(dto.getProductcore());
         entity.setProductName(dto.getProductName());
-        // Assuming you have a method in your service to find ImagesEntity by imagesId
-        // and set it to ProductsEntity using setImagesId() method.
-        // entity.setImagesId(imagesService.findImagesById(dto.getImagesId()));
-        // Assuming you have a method in your service to find VideoEntity by videoId
-        // and set it to ProductsEntity using setVideoId() method.
-        // entity.setVideoId(videoService.findVideoById(dto.getVideoId()));
-        // Assuming you have a method in your service to find CategoryItemEntity by categoryItemId
-        // and set it to ProductsEntity using setCategoryItemId() method.
-        // entity.setCategoryItemId(categoryItemService.findCategoryItemById(dto.getCategoryItemId()));
-        // Assuming you have a method in your service to find CategoryEntity by categoryId
-        // and set it to ProductsEntity using setCategoryId() method.
-        // entity.setCategoryId(categoryService.findCategoryById(dto.getCategoryId()));
-        // Assuming you have a method in your service to find ColorEntity by colorId
-        // and set it to ProductsEntity using setCorlorId() method.
-        // entity.setCorlorId(colorService.findColorById(dto.getColorId()));
-        // Assuming you have a method in your service to find SizeEntity by sizeId
-        // and set it to ProductsEntity using setSizeId() method.
-        // entity.setSizeId(sizeService.findSizeById(dto.getSizeId()));
         entity.setProductPrice(dto.getProductPrice());
         entity.setProductDescribe(dto.getProductDescribe());
         entity.setQuantityinstock(dto.getQuantityinstock());

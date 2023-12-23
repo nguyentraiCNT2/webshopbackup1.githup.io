@@ -5,14 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faffbb3f-ccb5-4f31-8587-2d4ccecfa7f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/BlackListAPIU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/OUTPUT/BlacklistOUTPUT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/repositorty/BlackListRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/BlackListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/BlackListServiceIMPL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d7195064605b50e81763fb3cb4c8b571bc69517" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d7195064605b50e81763fb3cb4c8b571bc69517" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f1f8173476a8f55916f39d4de38a118c2c4bbb8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f1f8173476a8f55916f39d4de38a118c2c4bbb8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc62c4a0be61bf9a74c14d609bc7f989755e92b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc62c4a0be61bf9a74c14d609bc7f989755e92b9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2142d539620c326b4d408f6cb4f2f411de24c1e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2142d539620c326b4d408f6cb4f2f411de24c1e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/Configproject/OpjectMapper/ProductsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/Configproject/OpjectMapper/ProductsMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/ProductsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/ProductsAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/ProductsEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/ProductsEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/repositorty/ProductsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/repositorty/ProductsRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/service/ProductsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/ProductsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/BlackListEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/BlackListEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/ProductsServiceIMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/ProductsServiceIMPL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ProductsEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/ProductsEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/SizeEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/SizeEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ProductsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ProductsMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/ProductsAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/ProductsAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/BlackListEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/BlackListEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/service/impl/ProductsServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/service/impl/ProductsServiceIMPL.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -380,29 +394,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelOrder2&quot;: &quot;2&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth2&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;90e5aab56861a259acc5022183e14643&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelOrder2": "2",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RequestMappingsPanelWidth2": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "spring.configuration.checksum": "90e5aab56861a259acc5022183e14643",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="webmobileshop.jwt" />
@@ -531,7 +545,15 @@
       <workItem from="1703172833764" duration="6245000" />
       <workItem from="1703218610805" duration="2425000" />
       <workItem from="1703228532570" duration="5143000" />
-      <workItem from="1703242824804" duration="1465000" />
+      <workItem from="1703242824804" duration="1553000" />
+      <workItem from="1703248146247" duration="2612000" />
+      <workItem from="1703293256976" duration="2731000" />
+      <workItem from="1703296187047" duration="1422000" />
+      <workItem from="1703325343994" duration="305000" />
+      <workItem from="1703325663965" duration="665000" />
+      <workItem from="1703326670977" duration="155000" />
+      <workItem from="1703360237261" duration="2636000" />
+      <workItem from="1703362899404" duration="167000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñˆ«¨üÿÿÿÿ
+`
+java:S1128">Remove this unused import 'webmobileshop.dto.CategotyItemDTO'.(ÑáÄ•ÿÿÿÿÿ8³øÁÉ1
+J
+java:S1068
+"(Remove this unused "page" private field.(‰¶£úÿÿÿÿ8´øÁÉ1
+J
+java:S1068"-Remove this unused "totalPage" private field.(«ÔšÓ8´øÁÉ1
+K
+java:S1068".Remove this unused "listResult" private field.( ©€8´øÁÉ1
