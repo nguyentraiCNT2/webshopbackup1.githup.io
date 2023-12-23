@@ -1,0 +1,10 @@
+
+e
+java:S1192C"HDefine a constant instead of duplicating this literal "product" 3 times.(¤«êò8æù—ÄÉ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºé¡‹ÿÿÿÿÿ8£Å”ÄÉ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¦Å”ÄÉ1
+L	java:S106&"+Replace this use of System.out by a logger.(ÀÎ™Œÿÿÿÿÿ8¯Å”ÄÉ1
+G	java:S106'"+Replace this use of System.out by a logger.(™ª‰Ï8¯Å”ÄÉ1
+B
+java:S1452/"&Remove usage of generic wildcard type.(øË}8°Å”ÄÉ1

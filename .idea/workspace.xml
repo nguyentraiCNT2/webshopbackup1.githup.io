@@ -5,28 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faffbb3f-ccb5-4f31-8587-2d4ccecfa7f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/BlackListAPIU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/OUTPUT/BlacklistOUTPUT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/repositorty/BlackListRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/BlackListService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/BlackListServiceIMPL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d7195064605b50e81763fb3cb4c8b571bc69517" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d7195064605b50e81763fb3cb4c8b571bc69517" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f1f8173476a8f55916f39d4de38a118c2c4bbb8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f1f8173476a8f55916f39d4de38a118c2c4bbb8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc62c4a0be61bf9a74c14d609bc7f989755e92b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc62c4a0be61bf9a74c14d609bc7f989755e92b9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2142d539620c326b4d408f6cb4f2f411de24c1e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2142d539620c326b4d408f6cb4f2f411de24c1e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/ShoppingCartAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/OUTPUT/ShoppingCartOUTPUT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/repositorty/ShoppingCartREppository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/ShoppingCartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/ShoppingCartServiceIMPL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25f16eea15fbc586cf8fb5584a34e27726cd1450" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25f16eea15fbc586cf8fb5584a34e27726cd1450" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38339aa22307307637640612349693aa365fca7d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38339aa22307307637640612349693aa365fca7d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b71ef49a7f03ca0ce25f11ec8baa3ac3406333e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b71ef49a7f03ca0ce25f11ec8baa3ac3406333e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6fa533ec8f9472bff8b14b4050487c774d6dfabd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6fa533ec8f9472bff8b14b4050487c774d6dfabd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f228d867bd91622bd7a2d4637c578702875c9852" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f228d867bd91622bd7a2d4637c578702875c9852" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f279cfcee40144b17ed72b1afe45318ae0234cd5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f279cfcee40144b17ed72b1afe45318ae0234cd5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/Configproject/OpjectMapper/ProductsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/Configproject/OpjectMapper/ProductsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/ProductsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/api/ADMIN/ProductsAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/BlackListEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/BlackListEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/ProductsServiceIMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/service/impl/ProductsServiceIMPL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ProductsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/Configproject/OpjectMapper/ProductsMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/ProductsAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/api/ADMIN/ProductsAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/entity/BlackListEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/entity/BlackListEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webmobileshop/service/impl/ProductsServiceIMPL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webmobileshop/service/impl/ProductsServiceIMPL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/ShoppingCartEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webmobileshop/entity/ShoppingCartEntity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -553,7 +546,7 @@
       <workItem from="1703325663965" duration="665000" />
       <workItem from="1703326670977" duration="155000" />
       <workItem from="1703360237261" duration="2636000" />
-      <workItem from="1703362899404" duration="167000" />
+      <workItem from="1703362899404" duration="3292000" />
     </task>
     <servers />
   </component>

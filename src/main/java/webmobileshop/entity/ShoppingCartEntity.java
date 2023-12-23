@@ -20,61 +20,75 @@ public class ShoppingCartEntity {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "ShoppingCartId")
-	private Long ShoppingCartId;
+	private Long shoppingCartId;
 	@ManyToOne
 	@JoinColumn(name = "UserId")
-	private UserAccountEntity UserId;
+	private UserAccountEntity userId;
 	@ManyToOne
 	@JoinColumn(name = "ProductId")
-	private ProductsEntity ProductId;
+	private ProductsEntity productId;
 	@Column(name = "Quantity")
-	private int Quantity;
+	private int quantity;
 	@Column(name = "ShippingPrice")
-	private BigDecimal ShippingPrice;
+	private BigDecimal shippingPrice;
 	@Column(name = "TotalAmount")
-	private BigDecimal TotalAmount;
+	private BigDecimal totalAmount;
 	@Column(name = "ExtraDay")
-	private Date ExtraDay;
+	private Date extraDay;
+
 	public Long getShoppingCartId() {
-		return ShoppingCartId;
+		return shoppingCartId;
 	}
+
 	public void setShoppingCartId(Long shoppingCartId) {
-		ShoppingCartId = shoppingCartId;
+		this.shoppingCartId = shoppingCartId;
 	}
+
 	public UserAccountEntity getUserId() {
-		return UserId;
+		return userId;
 	}
+
 	public void setUserId(UserAccountEntity userId) {
-		UserId = userId;
+		this.userId = userId;
 	}
+
 	public ProductsEntity getProductId() {
-		return ProductId;
+		return productId;
 	}
+
 	public void setProductId(ProductsEntity productId) {
-		ProductId = productId;
+		this.productId = productId;
 	}
+
 	public int getQuantity() {
-		return Quantity;
+		return quantity;
 	}
+
 	public void setQuantity(int quantity) {
-		Quantity = quantity;
+		this.quantity = quantity;
 	}
+
 	public BigDecimal getShippingPrice() {
-		return ShippingPrice;
+		return shippingPrice;
 	}
+
 	public void setShippingPrice(BigDecimal shippingPrice) {
-		ShippingPrice = shippingPrice;
+		this.shippingPrice = shippingPrice;
 	}
+
 	public BigDecimal getTotalAmount() {
-		return TotalAmount;
+		return totalAmount;
 	}
+
 	public void setTotalAmount(BigDecimal totalAmount) {
-		TotalAmount = totalAmount;
+		this.totalAmount = totalAmount;
 	}
+
 	public Date getExtraDay() {
-		return ExtraDay;
+		return extraDay;
 	}
+
 	public void setExtraDay(Date extraDay) {
-		ExtraDay = extraDay;
+		this.extraDay = extraDay;
 	}
 }
